@@ -18,6 +18,6 @@ pip install -r requirements.txt
 
 #About
 The name is Pritam Mondal :D 
-facebook: facebook.com/ultimatepritam
-twitter:  twitter.com/rocking_pritam
-github:   github.com/ultimatepritam
+facebook: https://facebook.com/ultimatepritam
+twitter:  https://twitter.com/rocking_pritam
+github:   https://github.com/ultimatepritam
