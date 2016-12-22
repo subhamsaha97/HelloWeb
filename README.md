@@ -16,3 +16,8 @@ Google gTTS voice recognization is used, you can use CMU-Sphinx as well refer to
 run this command in shell
 pip install -r requirements.txt
 
+#About
+The name is Pritam Mondal :D 
+facebook: facebook.com/ultimatepritam
+twitter:  twitter.com/rocking_pritam
+github:   github.com/ultimatepritam
