@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 #About
-I am Pritam Mondal 
+Pritam Mondal 
 * https://facebook.com/ultimatepritam || https://twitter.com/rocking_pritam
 
 Amit Kumar 
