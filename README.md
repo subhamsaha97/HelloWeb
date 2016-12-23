@@ -17,8 +17,8 @@ run this command in shell
 pip install -r requirements.txt
 
 #About
-I am Pritam Mondal :D 
-https://facebook.com/ultimatepritam https://twitter.com/rocking_pritam  https://github.com/ultimatepritam
+I am Pritam Mondal 
+https://facebook.com/ultimatepritam https://twitter.com/rocking_pritam  https://github.com/ultimatepritam :D
 
 Amit Kumar https://facebook.com/profile.php?id=100003332707351 8)
 
