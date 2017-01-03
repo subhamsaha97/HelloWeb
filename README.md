@@ -16,12 +16,18 @@ In linux system change the speech engine to espeak, read the documentaion http:/
 Google gTTS voice recognization is used, you can use CMU-Sphinx as well refer to https://pypi.python.org/pypi/SpeechRecognition/
 
 #Installation
-```
+
 run this command in shell
+```
 pip install -r requirements.txt
 ```
+#Contribute
+Anyone can start contributing right away in the project, Other than Master two branches are there that are for, one for the GUI (add-main-gui) and other for developing more training modules (add-training-moudules). Send PRs and may want to notify with emails to : ultimaterdp@gmail.com [Sub: HelloWeb] 
 
-#About
+#License 
+This project is licensed under [GPL-3.0]
+
+#Authors
 Pritam Mondal 
 * https://facebook.com/ultimatepritam || https://twitter.com/rocking_pritam
 
