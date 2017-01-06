@@ -37,17 +37,13 @@ Anyone can start contributing right away in the project, Other than Master two b
 
 
 #Authors
-Pritam Mondal 
-* https://facebook.com/ultimatepritam || https://twitter.com/rocking_pritam
+[Pritam Mondal](https://facebook.com/ultimatepritam) [twitter](https://twitter.com/rocking_pritam)
 
-Amit Kumar 
-* https://facebook.com/profile.php?id=100003332707351
+[Amit Kumar](https://facebook.com/profile.php?id=100003332707351)
 
-Anurag Banerjee 
-* https://facebook.com/anuragbanerjee4
+[Anurag Banerjee](https://facebook.com/anuragbanerjee4)
 
-Deepa Kumari 
-* https://facebook.com/deepa.kumari.7982
+[Deepa Kumari](https://facebook.com/deepa.kumari.7982)
 
 #License 
-This project is licensed under [GPL-3.0]
+This project is licensed under [GPL-3.0](https://github.com/ultimatepritam/HelloWeb/blob/master/LICENSE)
