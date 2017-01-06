@@ -37,7 +37,7 @@ Anyone can start contributing right away in the project, Other than Master two b
 
 
 #Authors
-[Pritam Mondal](https://facebook.com/ultimatepritam, https://twitter.com/rocking_pritam)
+[Pritam Mondal](https://facebook.com/ultimatepritam) (Twitter: Rocking_Pritam)
 
 [Amit Kumar](https://facebook.com/profile.php?id=100003332707351)
 
